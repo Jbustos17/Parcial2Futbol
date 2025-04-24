@@ -1,4 +1,4 @@
-package com.example.Futbol.Modelos;
+package com.example.Futbol.Model;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
